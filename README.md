@@ -1,0 +1,2 @@
+# komponenseim
+Beállítok komponenseket.
